@@ -8,8 +8,9 @@ Introduction repo<br/>
 1.clone this repo<br/>
 2.access your lampp phpmyadmin and import  file in database folder<br/>
 3.run localhost/team/html to access index page..<br/>
-### incase of database error..sorry and contact 0741727883 for <br/> Assisstance....hhhhh..too lazy to add any real solution..<br/>
-
+### incase of database error.. <br/>
+* CREATE a DATABASE team,with table team_members..columns--id(PRIMARY),Name,Password,Email..and you are good to go
+* incase error persists please contact 0741727883 for assisstance.
 # thank you note.<br/>
 *thank you all ...again i am abdullahi a student @ jkuat ready to learn
 new things from all of you..<br/>
