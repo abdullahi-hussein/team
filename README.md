@@ -3,6 +3,7 @@ Introduction repo
 ...basic crud application with signIn,signUp only..
 #requirements
 -lampp setup
+-internet for materialize cdn hhhh...
 ##how to run Database
 1.clone this repo
 2.access your lampp phpmyadmin and import  file in database folder
